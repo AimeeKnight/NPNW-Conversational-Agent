@@ -1,3 +1,7 @@
+![Last Commit](https://img.shields.io/github/last-commit/AimeeKnight/NPNW-Conversational-Agent)
+![Contributors](https://img.shields.io/github/contributors/AimeeKnight/NPNW-Conversational-Agent)
+![Commit Count](https://img.shields.io/github/commit-activity/y/AimeeKnight/NPNW-Conversational-Agent)
+
 # NPNW-Conversational-Agent
 NPNW Conversational Agent
 
